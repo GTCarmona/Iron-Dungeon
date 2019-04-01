@@ -2,7 +2,8 @@ canvas {
   display: block;
   border: 1px solid #000000;
   margin: auto;
-  background-color: #000000;
+  background-image: url(background.png);
+  background-size: 20%;
 }
 
 * {

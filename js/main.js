@@ -5,7 +5,7 @@ const CANVAS_WIDTH = canvas.width
 const CANVAS_HEIGHT = canvas.height
 
 let spriteImg = new Image()
-spriteImg.src = "Tiles and sprites/dungeon 512x512.png"
+spriteImg.src = "microFantasy.v0.1/tilesets/platformer.png"
 
 let room = new Room(room1)
 
